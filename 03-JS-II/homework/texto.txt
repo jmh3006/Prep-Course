@@ -1,0 +1,7 @@
+'for' es una expresión de bucle que permite que al ingresar una variable esta se repita aumentando su valor progresivamente
+hasta obtenmer el valor que hayamos determinado en nuestra linea de códigos.
+
+'&&', '||', '!' son operadores lógicos cuya finción es evaluar dos expresiones y devolver el resultado
+determinado en nuestro código. '&&' determina el valor esperado entre argumento1 && ("y") argumento2.
+|| determina el valor esperado entre argumento1 || ("o") argumento2. ! determina que argumento1 !==
+(no es igual) a argumento2
